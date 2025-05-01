@@ -35,7 +35,7 @@ android {
     defaultConfig {
         applicationId "com.example.webview_cookie_manager_example"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        minSdkVersion 19
+        minSdkVersion 28
         targetSdkVersion 34
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
